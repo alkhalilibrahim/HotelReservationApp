@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "84381370001",
+    "project_id": "hotel-room-reservation-ed512",
+    "storage_bucket": "hotel-room-reservation-ed512.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84381370001:android:e5d2918d3f6d27331d2130",
+        "android_client_info": {
+          "package_name": "com.example.hotelroomreservation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "84381370001-tm444tkb7118452v1956gjjpgu3o7gav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT0hwKgGoo3oJRlnYtG7my5zbl-ilPKg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "84381370001-tm444tkb7118452v1956gjjpgu3o7gav.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
